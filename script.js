@@ -54,7 +54,7 @@ navbar.appendChild(searchBtn);
 
 const chart = document.createElement("img");
 chart.id = "chart";
-chart.src = "./sysImg/Empty1.png";
+chart.src = "./sysImg/Empty.png";
 navbar.appendChild(chart);
 chart.onclick = () => {
     //window.open("./views/cashout.html", "_self");
